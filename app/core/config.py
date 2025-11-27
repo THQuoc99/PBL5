@@ -1,0 +1,15 @@
+VIDEO_RECEIVER_CONFIG = {
+    "PORT": 6699,
+    "MAX_RETRIES": 3
+}
+
+COMMAND_SERVER_CONFIG = {
+    "IP": "192.168.59.55",
+    "PORT": 9696,
+    "MAX_RETRIES": 3
+}
+
+STYLE_CONFIG = {
+    "WINDOW_SIZE": (1280, 720),
+    "THEME": "dark"
+}
